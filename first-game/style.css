@@ -1,0 +1,10 @@
+#result {
+    color: red;
+    font-size: 18px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.button {
+    display: inline;
+}
